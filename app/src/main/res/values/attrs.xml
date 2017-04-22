@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <declare-styleable name="ViewPagerIndicator">
+    <attr format="integer" name="pageCount"/>
+    <attr format="integer" name="currentPage"/>
+    <attr format="dimension" name="radius"/>
+    <attr format="dimension" name="interval"/>
+    <attr format="color" name="color"/>
+  </declare-styleable>
+</resources>
